@@ -1,4 +1,4 @@
-package me.ashley.steganography.util;
+package me.moruto.steganography.util;
 
 import javax.crypto.Cipher;
 import javax.crypto.SecretKey;

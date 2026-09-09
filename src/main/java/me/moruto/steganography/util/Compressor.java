@@ -1,4 +1,4 @@
-package me.ashley.steganography.util;
+package me.moruto.steganography.util;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

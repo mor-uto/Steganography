@@ -1,12 +1,11 @@
-package me.ashley.steganography;
+package me.moruto.steganography;
 
-import me.ashley.steganography.image.ImageMode;
-import me.ashley.steganography.image.StegoImage;
+import me.moruto.steganography.image.ImageMode;
+import me.moruto.steganography.image.StegoImage;
 
 import java.io.File;
 
 public class Main {
-
     public static void main(String[] args) {
         try {
             String password = "myStrongPassword123";
@@ -22,7 +21,7 @@ public class Main {
                     encodedImage,
                     password,
                     ImageMode.GRAYSCALE,
-                    "Steganography By Ashley\n Curious about the contents?"
+                    "Steganography\n Curious about the contents?"
             );
 
             System.out.println("Encoded successfully!");

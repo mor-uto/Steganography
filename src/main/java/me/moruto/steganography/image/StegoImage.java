@@ -1,7 +1,7 @@
-package me.ashley.steganography.image;
+package me.moruto.steganography.image;
 
-import me.ashley.steganography.util.Compressor;
-import me.ashley.steganography.util.Crypto;
+import me.moruto.steganography.util.Compressor;
+import me.moruto.steganography.util.Crypto;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

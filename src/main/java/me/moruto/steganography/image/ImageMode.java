@@ -1,4 +1,4 @@
-package me.ashley.steganography.image;
+package me.moruto.steganography.image;
 
 public enum ImageMode {
     GRAYSCALE(1),
