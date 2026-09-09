@@ -21,7 +21,7 @@ public class Main {
                     encodedImage,
                     password,
                     ImageMode.GRAYSCALE,
-                    "Steganography\n Curious about the contents?"
+                    "Steganograph\n Curious about the contents?"
             );
 
             System.out.println("Encoded successfully!");
