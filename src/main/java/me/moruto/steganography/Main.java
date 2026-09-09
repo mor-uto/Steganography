@@ -10,9 +10,9 @@ public class Main {
         try {
             String password = "myStrongPassword123";
 
-            File inputFile = new File("input_test.txt");
-            File encodedImage = new File("secret.png");
-            File outputDir = new File("output");
+            File inputFile = new File("test/input_test.txt");
+            File encodedImage = new File("test/secret.png");
+            File outputDir = new File("test");
 
             outputDir.mkdirs();
 
